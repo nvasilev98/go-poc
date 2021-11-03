@@ -14,6 +14,6 @@ NOTE:
 Also it should work for docker files. IT IS NOT TESTED!
 
 Useful links:
+- https://golang.org/ref/mod#private-module-proxy-direct
 - https://pkg.go.dev/cmd/go#hdr-Configuration_for_downloading_non_public_code
 - https://stackoverflow.com/questions/65755940/go-get-fails-to-download-a-go-package-git-repository-hosted-on-a-github-entre
-- https://stackoverflow.com/questions/27500861/whats-the-proper-way-to-go-get-a-private-repository
