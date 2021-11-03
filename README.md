@@ -1,5 +1,3 @@
-# go-poc
-
 ## Usage of private modules:
 
 ```export GOPRIVATE=github.wdf.sap.corp```
